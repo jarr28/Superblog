@@ -38,3 +38,11 @@ body
 {
     font-size: 20px;
 }
+
+#div #footer
+{
+   padding: 0 0 0 1em;
+   color: gray;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+   border-radius: gray;
+}
