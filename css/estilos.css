@@ -52,10 +52,10 @@ body
     font-size: 20px;
 }
 
-#div #footer
+#footer
 {
-   padding: 0 0 0 1em;
-   color: gray;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-   border-radius: gray;
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }
