@@ -16,6 +16,7 @@ Hago esto en nombre de mi familia y de los seres que me rodean no solo para que 
 * El verdadero amor por las buenas pr&Aacute;cticas
 * Trucos muy locos
 * Creado por el equipo de desarrollo
+* Incluye atajos jamas vistos
 
 Me siento 
 
